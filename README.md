@@ -9,6 +9,5 @@
 <h2 align="center"> Skills </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,github,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript, react, redux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript,react,redux,github,figma" />
 </div>
