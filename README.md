@@ -12,6 +12,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript,react,redux,github,figma" />
 </div>
 
-<div>
-    ![Parviz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhchanov&theme=dark&show_icons=true)
-</div>
