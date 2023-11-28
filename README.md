@@ -24,4 +24,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Mukhchanov/Mukhchanov/output/snake.svg" alt="Snake animation" />
 
+###
