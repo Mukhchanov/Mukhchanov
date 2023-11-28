@@ -12,4 +12,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript,react,redux,github,figma" />
 </div>
 
-https://github-stats-alpha.vercel.app/api?username=Mukhchanov
+https://github-stats-alpha.vercel.app/api?username=https://github.com/Mukhchanov
