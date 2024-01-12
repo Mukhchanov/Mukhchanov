@@ -6,7 +6,7 @@
 
 <br/>
 
-<p align="left">I'm currently learning </p> 
+<p align="center">I'm currently learning</p>
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,rest," />
 
