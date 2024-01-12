@@ -6,9 +6,13 @@
 
 <br/>
 
-<p align="center">I'm currently learning</p>
+<h2 align="center"> I'm currently learning </h2>
 <br/>
-<img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,rest," />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+</div>
 
 <h2 align="center"> Skills </h2>
 <br/>
