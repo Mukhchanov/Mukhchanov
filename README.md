@@ -6,7 +6,9 @@
 
 <br/>
 
-<p align="left">I'm currently learning Node.js, Express.js, REST API</p>
+<p align="left">I'm currently learning </p> 
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,REST" />
 
 <h2 align="center"> Skills </h2>
 <br/>
