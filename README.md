@@ -8,7 +8,7 @@
 
 <p align="left">I'm currently learning </p> 
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,REST" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,restapi" />
 
 <h2 align="center"> Skills </h2>
 <br/>
