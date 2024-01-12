@@ -6,6 +6,8 @@
 
 <br/>
 
+<p align="left">I'm currently learning Node.js, Express.js, REST API</p>
+
 <h2 align="center"> Skills </h2>
 <br/>
 <div align="center">
