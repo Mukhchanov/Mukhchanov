@@ -6,14 +6,6 @@
 
 <br/>
 
-
-<br/>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-</div>
-
 <h2 align="center"> Skills </h2>
 <br/>
 <div align="center">
