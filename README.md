@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center"> I'm currently learning </h2>
+
 <br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
